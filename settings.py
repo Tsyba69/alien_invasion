@@ -6,3 +6,5 @@ class Settings():
         self.screen_width = 1200  # Ширина экрана
         self.screen_height = 700  # Высота экрана
         self.bg_color = (230, 230, 230)  # Фон экрана
+
+        self.ship_speed = 1.5  # Скорость корабля
